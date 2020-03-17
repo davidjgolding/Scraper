@@ -66,7 +66,7 @@ Installation & Usage
 
 Scraper can also be used on individual LinkedIn Recruiter profiles.
 
-Notes  
+## Notes  
 • If LinkedIn redesign their Recruiter site, this extension will become obsolete.  
 • I hold no responsibility for any damage caused by this extension nor do I hold
 responsibility for any violation of LinkedIn's terms and conditions by the use of this extension.
